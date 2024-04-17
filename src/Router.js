@@ -1,6 +1,7 @@
 import React from 'react';
 import { BackHandler, Linking } from 'react-native';
-import { ViewPropTypes, PropTypes } from 'deprecated-react-native-prop-types';
+import PropTypes from 'prop-types';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import navigationStore from './navigationStore';
 import pathParser from './pathParser';
 

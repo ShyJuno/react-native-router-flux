@@ -1,5 +1,5 @@
 import React from 'react';
-import { PropTypes } from 'deprecated-react-native-prop-types';
+import PropTypes from 'prop-types';
 import { Text } from 'react-native';
 
 const propTypes = {

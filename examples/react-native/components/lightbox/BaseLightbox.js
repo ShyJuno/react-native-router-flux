@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { PropTypes } from 'deprecated-react-native-prop-types';
+import PropTypes from 'prop-types';
 import { View, StyleSheet, Animated, Dimensions, Button } from 'react-native';
 import { Actions } from 'react-native-router-flux';
 
