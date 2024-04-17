@@ -4,7 +4,7 @@ import { createAppContainer, NavigationActions, StackActions } from 'react-navig
 import { createStackNavigator } from 'react-navigation-stack';
 import { createDrawerNavigator, DrawerActions } from 'react-navigation-drawer';
 import { createMaterialTopTabNavigator, createBottomTabNavigator } from 'react-navigation-tabs';
-import PropTypes from 'prop-types';
+import { PropTypes } from 'deprecated-react-native-prop-types';
 import createReducer from './Reducer';
 import * as ActionConst from './ActionConst';
 import { OnEnter, OnExit, assert } from './Util';
