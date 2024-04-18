@@ -6894,8 +6894,9 @@
     "react-native-safe-area-view" "^0.14.6"
     "react-native-tab-view" "^2.11.0"
 
-"react-navigation@github:ShyJuno/custom-react-navigation#feature/rencar":
-  "resolved" "git+ssh://git@github.com/ShyJuno/custom-react-navigation.git#ff15f81961993c00d1887ec64bb71dab9a6caf8c"
+"react-navigation@^4.4.4":
+  "integrity" "sha512-08Nzy1aKEd73496CsuzN49vLFmxPKYF5WpKGgGvkQ10clB79IRM2BtAfVl6NgPKuUM8FXq1wCsrjo/c5ftl5og=="
+  "resolved" "https://registry.npmjs.org/react-navigation/-/react-navigation-4.4.4.tgz"
   "version" "4.4.4"
   dependencies:
     "@react-navigation/core" "^3.7.9"
