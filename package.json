@@ -29,7 +29,7 @@
     "opencollective": "^1.0.3",
     "path-to-regexp": "^2.4.0",
     "prop-types": "^15.8.1",
-    "react-navigation": "github:ShyJuno/react-navigation#feature/rencar",
+    "react-navigation": "^4.x",
     "react-navigation-drawer": "^2.2.1",
     "react-navigation-stack": "^1.7.3",
     "react-navigation-tabs": "^2.5.2",
